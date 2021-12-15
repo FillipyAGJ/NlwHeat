@@ -1,0 +1,1 @@
+NLWHeat é um app web/mobile que deixará com que o usuário faça comentários sobre a expectativa do Go Stack.
